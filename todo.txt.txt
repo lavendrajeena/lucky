@@ -1,5 +1,4 @@
 Nothing to todo
 change after policy
-I want ot raise conflict for workdir feature branch
-changes to raise conflict for workdir_copy
+
 
